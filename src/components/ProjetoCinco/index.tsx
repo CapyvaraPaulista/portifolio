@@ -7,7 +7,7 @@ const ProjetoCinco = () => (
     <Card>
         <Titulo>Projeto Lista de tarefas</Titulo>
         <Paragrafo tipo="secundario">Lista de tarefas feita com VueJS</Paragrafo>
-        <LinkBotao href="https://to-do-list-tawny-psi-36.vercel.app/" target="_blank"> Vizualizar5 </LinkBotao>
+        <LinkBotao href="https://to-do-list-tawny-psi-36.vercel.app/" target="_blank"> To-Do List </LinkBotao>
     </Card>
 )
 
